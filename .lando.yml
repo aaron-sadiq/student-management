@@ -1,0 +1,5 @@
+name: student-manger
+recipe: laravel
+config:
+  php: '8.1'
+  webroot: public
