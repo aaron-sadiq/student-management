@@ -1,10 +1,8 @@
 ### Student Management System Documentation
 
-This documentation provides an overview of a Student Management System, including its architecture, components, and functionalities.
-
 #### Architecture
 
-The Student Management System follows a structured architecture consisting of the following components:
+It follows a structured architecture consisting of the MVC:
 
 1. **Controllers**: Handle incoming HTTP requests and orchestrate the interaction between the user interface and the backend services. Controllers are responsible for validating input, invoking service methods, and returning appropriate responses.
 
